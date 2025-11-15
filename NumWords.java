@@ -12,3 +12,9 @@ public class NumWords {
 		System.out.println(num/100 +" hundreds, "+(num%100)/10+" tens, and "+num%10+" ones.");
 	}
 }
+
+// I would seperate the logic from the printing. 
+// What i mean is having variables for:
+// 'int hundreds' 'int tens' and 'int units'
+// It doesnt cost you much and is a lot more readable than trying to figure out what you were trying to do.. 
+
