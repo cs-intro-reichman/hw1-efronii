@@ -31,4 +31,8 @@ public class TimeFormat {
 		}
 		
 	}
+
 }
+
+// Great
+// The name 'ti' is not very informative, calling it 'time' would have been more readable, and the difference between a variable with 2 charaters and 4 is not dramatic :)
