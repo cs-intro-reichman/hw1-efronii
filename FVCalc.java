@@ -18,3 +18,5 @@ public class FVCalc {
 		System.out.println("After "+n+" years, $"+currentValue+" saved at "+rate*100+"% will yield $"+(int)futureValue);
 	}
 }
+
+// Good job, same comment as in NumWords.java :)
